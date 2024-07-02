@@ -35,10 +35,10 @@ body {
 } 
 
 main {
-    width: 90%;
+    
     max-width: 800px;
-    /* margin: 20px auto; */
 }
+
 p[data-testid="slackDisplayName"] {
     font-size: 80px;
     color:darkcyan;
