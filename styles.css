@@ -190,7 +190,7 @@ section {
     background-color: #151515;
     border-radius: 15px;
     border: 2px solid #3b3b3b;
-    width: 1400px;
+    /* width: 1400px; */
     height: 60px;
     box-shadow: 5px 5px 15px #222222;
  }
