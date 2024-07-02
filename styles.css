@@ -175,11 +175,11 @@ section {
     max-width: 100%;
 } */
 
- /* footer {
+  footer {
     background-color: black;
     width: 100%;
     text-align: center;
-}  */
+}  
  .links{
     display: flex;
     flex-direction: row;
@@ -188,9 +188,7 @@ section {
     padding-bottom: 1rem;
     padding-top: 1rem;
     background-color: #151515;
-    border-radius: 15px;
     border: 2px solid #3b3b3b;
-    /* width: 1400px; */
     height: 60px;
     box-shadow: 5px 5px 15px #222222;
  }
